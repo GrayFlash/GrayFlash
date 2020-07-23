@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula&hide=["issues"])](https://github.com/GrayFlash/github-readme-stats)
+
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash)](https://github.com/GrayFlash/github-readme-stats)
+### 
 ![](https://komarev.com/ghpvc/?username=GrayFlash&color=green)
