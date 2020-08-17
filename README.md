@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<br>
+    I doubt why will you visit my profile.
+</br>
+<br>
+  I'm Gaurav Kumar, currently Sophomore in ECE at SVNIT, SURAT.
+</br>
 <!--
 **GrayFlash/GrayFlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula&hide=["issues"])](https://github.com/GrayFlash/github-readme-stats)
 
+
+<!--
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash)](https://github.com/GrayFlash/github-readme-stats)
 ### 
+-->
+
+[![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula&hide=["issues"])](https://github.com/GrayFlash/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=GrayFlash&color=green)
