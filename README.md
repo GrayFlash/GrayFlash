@@ -5,21 +5,12 @@
 <br>
   I'm Gaurav Kumar, currently Sophomore in ECE at SVNIT, SURAT.
 </br>
-<!--
-**GrayFlash/GrayFlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<br>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GauravK28981502)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gaurav-kumar-404280194/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/g.r.a.y.stack/)
+<a href="mailto:gk74533@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+</br>
 
 
 <!--
@@ -27,7 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash)](https://github.com/GrayFlash/github-readme-stats)
 ### 
 -->
-
 [![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula&hide=["issues"])](https://github.com/GrayFlash/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=GrayFlash&color=green)
