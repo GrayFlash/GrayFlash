@@ -15,7 +15,7 @@ Talk to me about:<br>
   <a><img src="https://img.icons8.com/cotton/48/000000/artificial-intelligence.png"></a>
 </p>
 
-[![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula)]
+![Gray's github stats](https://github-readme-stats.vercel.app/api?username=GrayFlash&theme=dracula)
 
 <p> <img src="https://komarev.com/ghpvc/?username=GrayFlash&color=green" alt="counter" /> </p>
 
