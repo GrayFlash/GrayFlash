@@ -2,9 +2,9 @@
 
 Languages I prefer:<br>
 <p>
-   <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
-   <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
+  <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"></a>
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
   <a><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 </p>
@@ -31,8 +31,7 @@ Ping me on any of these: <br>
 
 
 
-<!--
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash)](https://github.com/GrayFlash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayFlash&hide=Jupyter+Notebook&layout=compact&langs_count=6)](https://github.com/GrayFlash/github-readme-stats)
 ### 
--->
+
