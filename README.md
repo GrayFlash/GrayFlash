@@ -1,4 +1,6 @@
 ### Hi there 👋. I'm Gaurav and I love some intriguing tech
+![](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
+
 
 Languages I prefer:<br>
 <p>
