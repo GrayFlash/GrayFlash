@@ -1,6 +1,12 @@
 ### Hi there 👋. I'm Gaurav and I love some intriguing tech
 ![](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
 
+- 🔭 I’m currently working on **Knowledge Graphs**
+- 🌱 I’m also exploring **Backend Technologies** 
+- 👯 I’m looking to collaborate on **Open Source Projects, Hackathons**
+- 💬 Ask me about **Nothing**, don't ask anything just Google it, cause that's what I'll do.
+- ⚡ Fun fact: **None**, I am not much fun loving guy.
+
 
 Languages I prefer:<br>
 <p>
