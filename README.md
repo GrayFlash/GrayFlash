@@ -1,6 +1,5 @@
 ### Hi there 👋. I'm Gaurav and I love some intriguing tech
 
-<div align="center">
 <a><img align="right" alt="Gaurav Kumar" width="450px"  src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif"></a>
   - 🔭 I’m currently working on **Knowledge Graphs**
   - 🌱 I’m also exploring **Backend Technologies** 
@@ -8,8 +7,9 @@
   - 💬 Ask me about **Nothing**, don't ask anything just Google it, cause that's what I'll do.
   - ⚡ Fun fact: **None**, I am not much fun loving guy.
 
-</div>
 
+
+<hr>
 
 Languages I prefer:<br>
 <p>
