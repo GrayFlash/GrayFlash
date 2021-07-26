@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Gaurav and I love some intriguing tech
 
 <a><img align="right" alt="Gaurav Kumar" width="450px"  src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif"></a>
-  - 🔭 I’m currently working on **Knowledge Graphs**
+  - 🔭 I’m currently working on **Golang**
   - 🌱 I’m also exploring **Backend Technologies** 
   - 👯 I’m looking to collaborate on **Open Source Projects, Hackathons**
   - 💬 Ask me about API integration, ML approaches, Image Processing and Deep Learning workflow.
